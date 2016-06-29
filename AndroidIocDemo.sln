@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidIoc.Core", "AndroidIoc.Core\AndroidIoc.Core.csproj", "{5FC3BA4C-2388-451D-915D-8C2B93C75C76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityAndroidDemo", "UnityAndroidDemo\UnityAndroidDemo.csproj", "{1001C78C-6D40-4618-8791-893A5C8F03EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyIoCAndroidDemo", "TinyIoCAndroidDemo\TinyIoCAndroidDemo.csproj", "{761DFBC9-E357-4CA8-8157-D51EFB2AEDC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutofacAndroidDemo", "AutofacAndroidDemo\AutofacAndroidDemo.csproj", "{9A4D9ABC-62A7-4187-A0EB-75CC4C030DE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinjectAndroidDemo", "NinjectAndroidDemo\NinjectAndroidDemo.csproj", "{414A26C3-D345-4EAE-9FE2-C8853E4A1596}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FC3BA4C-2388-451D-915D-8C2B93C75C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC3BA4C-2388-451D-915D-8C2B93C75C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC3BA4C-2388-451D-915D-8C2B93C75C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC3BA4C-2388-451D-915D-8C2B93C75C76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1001C78C-6D40-4618-8791-893A5C8F03EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1001C78C-6D40-4618-8791-893A5C8F03EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1001C78C-6D40-4618-8791-893A5C8F03EC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1001C78C-6D40-4618-8791-893A5C8F03EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1001C78C-6D40-4618-8791-893A5C8F03EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1001C78C-6D40-4618-8791-893A5C8F03EC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{761DFBC9-E357-4CA8-8157-D51EFB2AEDC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761DFBC9-E357-4CA8-8157-D51EFB2AEDC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761DFBC9-E357-4CA8-8157-D51EFB2AEDC0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{761DFBC9-E357-4CA8-8157-D51EFB2AEDC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761DFBC9-E357-4CA8-8157-D51EFB2AEDC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{761DFBC9-E357-4CA8-8157-D51EFB2AEDC0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9A4D9ABC-62A7-4187-A0EB-75CC4C030DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4D9ABC-62A7-4187-A0EB-75CC4C030DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4D9ABC-62A7-4187-A0EB-75CC4C030DE6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9A4D9ABC-62A7-4187-A0EB-75CC4C030DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4D9ABC-62A7-4187-A0EB-75CC4C030DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A4D9ABC-62A7-4187-A0EB-75CC4C030DE6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{414A26C3-D345-4EAE-9FE2-C8853E4A1596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414A26C3-D345-4EAE-9FE2-C8853E4A1596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414A26C3-D345-4EAE-9FE2-C8853E4A1596}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{414A26C3-D345-4EAE-9FE2-C8853E4A1596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414A26C3-D345-4EAE-9FE2-C8853E4A1596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{414A26C3-D345-4EAE-9FE2-C8853E4A1596}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
